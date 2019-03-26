@@ -1,0 +1,18 @@
+.pics {
+    display:flex;
+    justify-content: center;
+}
+.header {
+    text-align:center;
+    background-color:blue;
+}
+.pink {
+    background-color:blue;
+    padding:20px;
+    border:30px solid red;}
+ button{
+     width:200px;
+     height:100px;
+ }
+
+   
